@@ -1,7 +1,7 @@
-{:site-title           "Ampersanda's blog"
- :author               "Ampersanda"
+{:site-title           "Kumisaurus's blog"
+ :author               "Irsal Maulana"
  :description          "My blog is awesome. Don't doubt it."
- :site-url             "https://ampersanda.dev/"
+ :site-url             "https://kumisaurus.netlify.app/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
@@ -19,10 +19,10 @@
  :sass-path            "sass"
  :compass-path         "compass"
  :theme                "simple-amp"
- :resources            ["img"]
+ :resources            ["img" "videos"]
  :keep-files           [".git"]
- :disqus?              true
- :disqus-shortname     "ampersanda-blog"
+ :disqus?              false
+ :disqus-shortname     ""
  :ignored-files        [#"\.#.*" #".*\.swp$"]
  :previews?            false
  :posts-per-page       8
